@@ -1,7 +1,7 @@
 # Project Title: Bad Bank
 # Description/Motivation: This is a capstone project from MIT xPro. It exist as a prerequisite to finish the course.
 # Installation Guidelines: I will have a complete instruction when this project finish.
-# Features: I will include all the options and feature this project has when I finish it.
+# Features: I will include all the options and features this project has when I finish it.
 # License: 
 MIT License
 
